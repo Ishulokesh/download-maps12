@@ -1,4 +1,4 @@
-Download Mexican maps
+Download Mexican maps- One stop solution for every map in Mexico
 =====================
 
 You'll need to have __wget__, __gdal__, and __R__ installed to download and create the maps. Then just run
